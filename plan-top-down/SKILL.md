@@ -101,5 +101,8 @@ Say each thing **once**. Concretely:
 - **Open questions only at the end**, not also inline. Don't re-ask answered questions; carry an earlier question forward only if it is still unanswered, marked 「(仍待確認)」.
 - **No filler.** No intro paragraph restating the request, no closing recap of what was just written, no empty sections — write 「無」 on one line if a required section has nothing.
 - **Prefer tables** over prose when listing items that share the same attributes (modules, hops, parameters, risks).
+- **After the user decides, don't echo the decision.** No 「您選擇了 X」/「依您的決定」 lines — just apply it in the plan.
+- **State only what you will do.** Don't list rejected options, out-of-plan items, or 「不會做 X」 statements (stage 1 範圍 may still note out-of-scope items once). Once a choice is made, drop the alternatives.
+- **Keep explanations short.** One short reason per decision at most; skip the reason when it is obvious. Prefer a bullet over a paragraph.
 
 Brevity must never remove: evidence citations for claims about existing code, 「推測」/「不確定」 labels, risks, where parameter values come from, verification steps with expected results, and open questions. Before sending each stage, check that every required section for that stage is present (or 「無」) and that no item appears twice.
