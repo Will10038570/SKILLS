@@ -62,6 +62,15 @@ Total ≈ 300 Chinese characters (plus a short source list, not counted). Struct
 | … | … | … | … | … |
   - 1–2 bullets: streaks (外資連 N 賣 / 投信連 N 買), month-to-date cumulative, what drove the latest day
 
+【外資止賣訊號】(excluded from the ~300-character count; 1–2 sentences max)
+  Based on the data already gathered, assess whether foreign selling is stabilizing. Check these four signals and state how many are showing:
+  ① 外資現貨賣超金額今日 vs. 前日（縮小 = 正訊號）
+  ② TSM ADR 夜盤相對台股折算價（正乖離 = 正訊號）
+  ③ USD/TWD 收盤未再創新高（止升 = 正訊號）
+  ④ 台指期外資淨空單縮減（若有資料）
+  Format: 「外資止賣訊號：X/4 個出現。[1句說明最關鍵的變化或尚未止穩的原因]」
+  If the selling streak is ≤ 2 days or amounts are small, skip this section entirely.
+
 【韓股重點】1–2 bullets: 外資 net buy/sell on KOSPI, what drove it, and how it compares with Taiwan (e.g. 記憶體 vs. 晶圓代工, KRW vs. TWD)
 【美股與總經重點】2–4 個最重要事件,每項附數字與日期(index numbers already in the table: don't repeat them here)
 【對台股影響評估】
